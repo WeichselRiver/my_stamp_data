@@ -1,26 +1,27 @@
 [
     {
-        "Satz": "Ziffern",
-        "Marken": [
+        "satzname": "Ziffern",
+        "varianten": [
             {
-                "Mn": 911,
-                "Besitz": [
-                    "**",
-                    "o"
+                "variantenname": "**",
+                "marken": [
+                    {"911" : 1},
+                    {"912" : 1}
                 ]
             }
         ]
     },
     {
-        "Satz": "Ziffern Block",
-        "Marken": [
+        "satzname": "Ziffern Block",
+        "varianten": [
             {
-                "Mn": "12A",
-                "Besitz": [
-                    "**",
-                    "o"
+                "variantenname": "**",
+                "marken": [
+                    {"Block 12A" : 0},
+                    {"Block 12B" : 0}
                 ]
             }
         ]
     }
+
 ]
