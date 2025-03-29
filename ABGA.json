@@ -1,8 +1,25 @@
 [
     {
-        "911-937 Ziffern": [
+        "Satz": "Ziffern",
+        "Marken": [
             {
-                "911 1Pf": "x"
+                "Mn": 911,
+                "Besitz": [
+                    "**",
+                    "o"
+                ]
+            }
+        ]
+    },
+    {
+        "Satz": "Ziffern Block",
+        "Marken": [
+            {
+                "Mn": "12A",
+                "Besitz": [
+                    "**",
+                    "o"
+                ]
             }
         ]
     }
