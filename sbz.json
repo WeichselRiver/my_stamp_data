@@ -1,4 +1,6 @@
 [
-  {"MichNr" : "1"},
-  {"MichNr" : "2"}
+  {"MichNr" : "1",
+  "Besitz" : ""},
+  {"MichNr" : "2",
+  "Besitz" : "*"}
 ]
