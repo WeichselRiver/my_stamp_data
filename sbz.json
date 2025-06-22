@@ -1,6 +1,8 @@
 [
   {"MichNr" : "1",
-  "Besitz" : ""},
+  "Besitz" : "o"},
   {"MichNr" : "2",
-  "Besitz" : "**"}
+  "Besitz" : "**"},
+   {"MichNr" : "3",
+  "Besitz" : ""}
 ]
